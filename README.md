@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Kaeljun and I currently work as a web developer.
-- 👀 I’m interested in web and game programming
+- 👋 Hi, I’m @Kaeljun and I currently work as a web developer
+- 👀 I’m interested in everything about technology
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: https://www.linkedin.com/in/michael-junges-7335051a1/ or at michael.junges@proton.me
 
